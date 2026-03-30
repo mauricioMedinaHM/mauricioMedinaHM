@@ -1,39 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d1b69,100:4c1d95&height=240&section=header&text=Mauricio%20Medina&fontSize=50&fontColor=e2d9f3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Builder%20%7C%20Community%20Lead&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d1b69,100:4c1d95&height=240&section=header&text=Mauricio%20Medina&fontSize=52&fontColor=e2d9f3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Builder%20%7C%20Community%20Lead&descSize=18&descAlignY=58" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mendoza%2C%20Argentina-1e1b4b?style=flat-square&logo=googlemaps&logoColor=a78bfa"/>
+  <img src="https://img.shields.io/badge/📍%20Mendoza%2C%20Argentina-1e1b4b?style=flat-square&logoColor=a78bfa"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/6%2B%20years%20building-2d1b69?style=flat-square&logo=code&logoColor=a78bfa"/>
+  <img src="https://img.shields.io/badge/⚡%206%2B%20years%20building-2d1b69?style=flat-square&logoColor=a78bfa"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Currently%20focused%20on%20Web3-4c1d95?style=flat-square&logo=ethereum&logoColor=c4b5fd"/>
+  <img src="https://img.shields.io/badge/⛓️%20Currently%20focused%20on%20Web3-4c1d95?style=flat-square&logoColor=c4b5fd"/>
 </p>
+
+<br/>
 
 ---
 
-## `> whoami`
+### 👤 Sobre mí
 
-```
-Developer with 6+ years of experience shipping real software.
-Currently all-in on Web3 — 1 year building on Stellar/Soroban
-and not looking back.
+Developer con 6+ años de experiencia construyendo software real. Actualmente enfocado 100% en Web3 — 1 año buildando en Stellar/Soroban y sin mirar atrás.
 
-Community organizer, hackathon mentor, and occasional chaos agent
-when it comes to developer events in Mendoza.
-```
+Organizo eventos IT, mentoreo equipos en hackathons blockchain y construyo herramientas con impacto real en Mendoza y la región.
 
 - 🎓 Licenciatura en Informática y Desarrollo de Software — en curso
 - ⛓️ Builder en el ecosistema **Stellar** — contratos inteligentes con **Soroban**
 - 🏗️ Organizador de eventos IT y mentor en hackathons Web3
 - 🛠️ Actualmente construyendo **TrustBid** — trazabilidad de fondos para ONGs
-- 🧠 Creo que la mejor documentación es la que no tienes que leer dos veces
+- 🧠 Creo que la mejor documentación es la que no tenés que leer dos veces
 
 ---
 
-## `> tech_stack`
+### 🛠️ Tech Stack
 
-### Core
+**Lenguajes**
+
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-1e1b4b?style=for-the-badge&logo=typescript&logoColor=a78bfa"/>
   <img src="https://img.shields.io/badge/JavaScript-2d1b69?style=for-the-badge&logo=javascript&logoColor=c4b5fd"/>
@@ -41,21 +39,24 @@ when it comes to developer events in Mendoza.
   <img src="https://img.shields.io/badge/Rust-2d1b69?style=for-the-badge&logo=rust&logoColor=c4b5fd"/>
 </p>
 
-### Frontend
+**Frontend**
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-1e1b4b?style=for-the-badge&logo=react&logoColor=a78bfa"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-2d1b69?style=for-the-badge&logo=tailwindcss&logoColor=c4b5fd"/>
   <img src="https://img.shields.io/badge/shadcn%2Fui-1e1b4b?style=for-the-badge&logoColor=a78bfa"/>
 </p>
 
-### Web3
+**Web3**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Stellar-1e1b4b?style=for-the-badge&logo=stellar&logoColor=a78bfa"/>
   <img src="https://img.shields.io/badge/Soroban-2d1b69?style=for-the-badge&logoColor=c4b5fd"/>
   <img src="https://img.shields.io/badge/Smart%20Contracts-4c1d95?style=for-the-badge&logoColor=e2d9f3"/>
 </p>
 
-### Tools
+**Tools**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=a78bfa"/>
   <img src="https://img.shields.io/badge/VS%20Code-2d1b69?style=for-the-badge&logo=visualstudiocode&logoColor=c4b5fd"/>
@@ -64,35 +65,28 @@ when it comes to developer events in Mendoza.
 
 ---
 
-## `> current_focus`
+### 🚀 En qué estoy ahora
 
-```rust
-enum Focus {
-    Building,     // TrustBid — fondo trazable para ONGs con React + Stellar
-    Learning,     // Rust profundo / Soroban avanzado
-    Organizing,   // Eventos IT y hackathons en Mendoza
-    Contributing, // Ecosistema Stellar open source
-}
-
-let now: Focus = Focus::Building;
-```
+- 🔐 **TrustBid** — plataforma de trazabilidad de fondos para ONGs sobre Stellar
+- 📚 Profundizando en Rust y contratos Soroban avanzados
+- 🌐 Organizando eventos IT y hackathons Web3 en Mendoza
+- 🤝 Contribuyendo al ecosistema open source de Stellar
 
 ---
 
-## `> featured_project`
+### 🔐 Featured Project — TrustBid
 
-### 🔐 TrustBid
 > Plataforma de trazabilidad de fondos para ONGs construida sobre Stellar.
 
-```
-Stack  →  React · TypeScript · Tailwind · shadcn/ui · Soroban
-Status →  MVP activo — autenticación, mock data layer, 5 páginas core
-Goal   →  Transparencia real en la gestión de donaciones y licitaciones
-```
+| | |
+|---|---|
+| **Stack** | React · TypeScript · Tailwind · shadcn/ui · Soroban |
+| **Status** | MVP activo — autenticación, mock data layer, 5 páginas core |
+| **Goal** | Transparencia real en la gestión de donaciones y licitaciones |
 
 ---
 
-## `> github_stats`
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mauricioMedinaHM&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=8&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed" height="160"/>
@@ -101,7 +95,7 @@ Goal   →  Transparencia real en la gestión de donaciones y licitaciones
 
 ---
 
-## `> connect`
+### 🌐 Conectemos
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mauricio-medina-dev/">
