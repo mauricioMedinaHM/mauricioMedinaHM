@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d1b69,100:4c1d95&height=240&section=header&text=Mauricio%20Ruiz&fontSize=50&fontColor=e2d9f3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Builder%20%7C%20Community%20Lead&descSize=18&descAlignY=58&descAlignX=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d1b69,100:4c1d95&height=240&section=header&text=Mauricio%20Medina&fontSize=50&fontColor=e2d9f3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Builder%20%7C%20Community%20Lead&descSize=18&descAlignY=58" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ when it comes to developer events in Mendoza.
 
 - 🎓 Licenciatura en Informática y Desarrollo de Software — en curso
 - ⛓️ Builder en el ecosistema **Stellar** — contratos inteligentes con **Soroban**
-- 🏗️ Fundador de espacios IT locales y mentor en hackathons Web3
+- 🏗️ Organizador de eventos IT y mentor en hackathons Web3
 - 🛠️ Actualmente construyendo **TrustBid** — trazabilidad de fondos para ONGs
 - 🧠 Creo que la mejor documentación es la que no tienes que leer dos veces
 
@@ -95,8 +95,8 @@ Goal   →  Transparencia real en la gestión de donaciones y licitaciones
 ## `> github_stats`
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EngroHm&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=8&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EngroHm&layout=compact&theme=midnight-purple&border_radius=8&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mauricioMedinaHM&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=8&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioMedinaHM&layout=compact&theme=midnight-purple&border_radius=8&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd&langs_count=6" height="160"/>
 </p>
 
 ---
@@ -104,13 +104,15 @@ Goal   →  Transparencia real en la gestión de donaciones y licitaciones
 ## `> connect`
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-linkedin">
+  <a href="https://www.linkedin.com/in/mauricio-medina-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
   </a>
-  <a href="https://x.com/tu-twitter">
+  &nbsp;
+  <a href="https://x.com/mauriHm_">
     <img src="https://img.shields.io/badge/X%20%2F%20Twitter-2d1b69?style=for-the-badge&logo=x&logoColor=c4b5fd"/>
   </a>
-  <a href="mailto:tu@email.com">
+  &nbsp;
+  <a href="mailto:hh.mauri2190@gmail.com">
     <img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
   </a>
 </p>
