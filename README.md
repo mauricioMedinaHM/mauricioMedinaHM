@@ -16,14 +16,13 @@
 
 ### 👤 Sobre mí
 
-Developer con 6+ años de experiencia construyendo software real. Actualmente enfocado 100% en Web3 — 1 año buildando en Stellar/Soroban y sin mirar atrás.
+Developer con 6+ años de experiencia construyendo software real. Actualmente enfocado 100% en Web3 — 1 año buildando en Stellar/Soroban.
 
 Organizo eventos IT, mentoreo equipos en hackathons blockchain y construyo herramientas con impacto real en Mendoza y la región.
 
 - 🎓 Licenciatura en Informática y Desarrollo de Software — en curso
 - ⛓️ Builder en el ecosistema **Stellar** — contratos inteligentes con **Soroban**
 - 🏗️ Organizador de eventos IT y mentor en hackathons Web3
-- 🛠️ Actualmente construyendo **TrustBid** — trazabilidad de fondos para ONGs
 - 🧠 Creo que la mejor documentación es la que no tenés que leer dos veces
 
 ---
@@ -67,22 +66,9 @@ Organizo eventos IT, mentoreo equipos en hackathons blockchain y construyo herra
 
 ### 🚀 En qué estoy ahora
 
-- 🔐 **TrustBid** — plataforma de trazabilidad de fondos para ONGs sobre Stellar
 - 📚 Profundizando en Rust y contratos Soroban avanzados
 - 🌐 Organizando eventos IT y hackathons Web3 en Mendoza
 - 🤝 Contribuyendo al ecosistema open source de Stellar
-
----
-
-### 🔐 Featured Project — TrustBid
-
-> Plataforma de trazabilidad de fondos para ONGs construida sobre Stellar.
-
-| | |
-|---|---|
-| **Stack** | React · TypeScript · Tailwind · shadcn/ui · Soroban |
-| **Status** | MVP activo — autenticación, mock data layer, 5 páginas core |
-| **Goal** | Transparencia real en la gestión de donaciones y licitaciones |
 
 ---
 
