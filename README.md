@@ -18,12 +18,11 @@
 
 Developer con 6+ años de experiencia construyendo software real. Actualmente enfocado 100% en Web3 — 1 año buildando en Stellar/Soroban.
 
-Organizo eventos IT, mentoreo equipos en hackathons blockchain y construyo herramientas con impacto real en Mendoza y la región.
+Organizo eventos IT, mentoreo equipos en hackathons y construyo herramientas con impacto real en Mendoza.
 
 - 🎓 Licenciatura en Informática y Desarrollo de Software — en curso
 - ⛓️ Builder en el ecosistema **Stellar** — contratos inteligentes con **Soroban**
 - 🏗️ Organizador de eventos IT y mentor en hackathons Web3
-- 🧠 Creo que la mejor documentación es la que no tenés que leer dos veces
 
 ---
 
@@ -68,7 +67,7 @@ Organizo eventos IT, mentoreo equipos en hackathons blockchain y construyo herra
 
 - 📚 Profundizando en Rust y contratos Soroban avanzados
 - 🌐 Organizando eventos IT y hackathons Web3 en Mendoza
-- 🤝 Contribuyendo al ecosistema open source de Stellar
+- 🤝 Contribuyendo al ecosistema open source
 
 ---
 
