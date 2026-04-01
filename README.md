@@ -71,15 +71,6 @@ Organizo eventos IT, mentoreo equipos en hackathons y construyo herramientas con
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauricioMedinaHM&show_icons=true&theme=midnight-purple&rank_icon=github&border_radius=8&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioMedinaHM&layout=compact&theme=midnight-purple&border_radius=8&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=c4b5fd&langs_count=6" height="160"/>
-</p>
-
----
-
 ### 🌐 Conectemos
 
 <p align="left">
