@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍%20Mendoza%2C%20Argentina-1e1b4b?style=flat-square&logoColor=a78bfa"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡%206%2B%20years%20building-2d1b69?style=flat-square&logoColor=a78bfa"/>
+  <img src="https://img.shields.io/badge/⚡%204%2B%20years%20building-2d1b69?style=flat-square&logoColor=a78bfa"/>
   &nbsp;
   <img src="https://img.shields.io/badge/⛓️%20Currently%20focused%20on%20Web3-4c1d95?style=flat-square&logoColor=c4b5fd"/>
 </p>
