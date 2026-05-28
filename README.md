@@ -16,7 +16,7 @@
 
 ### 👤 Sobre mí
 
-Developer con 4+ años de experiencia construyendo software real. Actualmente enfocado 100% en Web3 — 1 año buildando en Stellar/Soroban.
+Developer con +4 años de experiencia construyendo software real. Actualmente enfocado 100% en Web3 — 1 año buildando en Stellar/Soroban.
 
 Organizo eventos IT, mentoreo equipos en hackathons y construyo herramientas con impacto real en Mendoza.
 
