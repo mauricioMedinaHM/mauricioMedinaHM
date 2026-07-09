@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=2500&color=BC8CFF&vCenter=true&repeat=false&width=220&height=32&lines=About+me" alt="About me">
 
-Full-Stack Developer with **6+ years** building high-performance, scalable web solutions. Specialized in the **TypeScript/React/Node.js** ecosystem, now focused on **Web3** — writing Rust smart contracts on **Stellar/Soroban**.
+Full-Stack Developer with **4+ years** building high-performance, scalable web solutions. Specialized in the **TypeScript/React/Node.js** ecosystem, now focused on **Web3** — writing Rust smart contracts on **Stellar/Soroban**.
 
 🏆 **1st place** at Blockchain Hackathon Buenos Aires 2025 with a fully functional DApp. Previously led teams of **20+ developers** as Technical Lead. Co-founder of **CuyoConnect**, Mendoza's tech builders community, and active mentor in Stellar ecosystem hackathons.
 
