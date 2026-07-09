@@ -28,8 +28,6 @@
                                                . Repos:........................ XX | Stars:........................... XX
                                                . Commits:................... X,XXX | Followers:....................... XX
 
----
-
 ### 👤 Sobre mí
 
 Developer con +4 años de experiencia construyendo software real. Actualmente enfocado 100% en Web3 — 1 año buildando en Stellar/Soroban.
