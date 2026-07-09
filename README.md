@@ -1,4 +1,4 @@
-```text
+```jar
              :-==+*#*+=:                       mauri@medina ────────────────────────────────────────────────────────
           -*#%%%%%%%%%@@%*:                    . OS:........................................ macOS, Linux (Ubuntu)
        :+%@@@@@@@@@%%%@@@@@#:                  . Uptime:........................ 4+ years shipping production code
@@ -25,9 +25,6 @@
 @@@@@@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   . Speaker:....... Puna Tech, Universidad del Aconcagua, Vendimia Tech
                                                . Mentor:................. Stellar/Soroban Hackathons (Vendimia Tech)
 
-                                               - GitHub Stats ─────────────────────────────────────────────────────
-                                               . Repos:..................... XX | Stars:......................... XX
-                                               . Commits:................ X,XXX | Followers:..................... XX
 
 ```
 
