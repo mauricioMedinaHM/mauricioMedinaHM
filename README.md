@@ -1,79 +1,47 @@
 <img src="./terminal.svg" alt="mauri@medina" width="100%">
 
-### 👤 Sobre mí
+<br><br>
 
-Developer con +4 años de experiencia construyendo software real. Actualmente enfocado 100% en Web3 — 1 año buildando en Stellar/Soroban.
+<img src="./header_whoami.svg" alt="whoami" width="100%">
 
-Organizo eventos IT, mentoreo equipos en hackathons y construyo herramientas con impacto real en Mendoza.
+Full-Stack Developer with **6+ years** building high-performance, scalable web solutions. Specialized in the **TypeScript/React/Node.js** ecosystem, now focused on **Web3** — writing Rust smart contracts on **Stellar/Soroban**. 🏆 **1st place** at Blockchain Hackathon Buenos Aires 2025 with a fully functional DApp. Previously led teams of **20+ developers** as Technical Lead. Co-founder of **CuyoConnect**, Mendoza's tech builders community, and active mentor in Stellar ecosystem hackathons.
 
-- 🎓 Licenciatura en Informática y Desarrollo de Software — en curso
-- ⛓️ Builder en el ecosistema **Stellar** — contratos inteligentes con **Soroban**
-- 🏗️ Organizador de eventos IT y mentor en hackathons Web3
+<img src="./header_experience.svg" alt="experience" width="100%">
 
----
+```text
+[2025 — now ]  Freelance Full-Stack Developer ─ end-to-end web & Web3 DApps for media, retail & education
+[2023 — 2024]  Full-Stack Developer @ ALQ Agency ─ full web cycle: UI/UX, frontend, backend, deploys
+[2020 — 2022]  CEO & Technical Lead @ Patitas a Casa ─ led 20+ devs from conception to production
+```
 
-### 🛠️ Tech Stack
-
-**Lenguajes**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-1e1b4b?style=for-the-badge&logo=typescript&logoColor=a78bfa"/>
-  <img src="https://img.shields.io/badge/JavaScript-2d1b69?style=for-the-badge&logo=javascript&logoColor=c4b5fd"/>
-  <img src="https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=a78bfa"/>
-  <img src="https://img.shields.io/badge/Rust-2d1b69?style=for-the-badge&logo=rust&logoColor=c4b5fd"/>
-</p>
-
-**Frontend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-1e1b4b?style=for-the-badge&logo=react&logoColor=a78bfa"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-2d1b69?style=for-the-badge&logo=tailwindcss&logoColor=c4b5fd"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-1e1b4b?style=for-the-badge&logoColor=a78bfa"/>
-</p>
-
-**Web3**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Stellar-1e1b4b?style=for-the-badge&logo=stellar&logoColor=a78bfa"/>
-  <img src="https://img.shields.io/badge/Soroban-2d1b69?style=for-the-badge&logoColor=c4b5fd"/>
-  <img src="https://img.shields.io/badge/Smart%20Contracts-4c1d95?style=for-the-badge&logoColor=e2d9f3"/>
-</p>
-
-**Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=a78bfa"/>
-  <img src="https://img.shields.io/badge/VS%20Code-2d1b69?style=for-the-badge&logo=visualstudiocode&logoColor=c4b5fd"/>
-  <img src="https://img.shields.io/badge/Linux-1e1b4b?style=for-the-badge&logo=linux&logoColor=a78bfa"/>
-</p>
-
----
-
-### 🚀 En qué estoy ahora
-
-- 📚 Estudiando Rust y contratos Soroban avanzados
-- 🌐 Organizando eventos IT y hackathons Web3 en Mendoza
-  
----
-
-### 🌐 Conectemos
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mauricio-medina-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=a78bfa"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/mauriHm_">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-2d1b69?style=for-the-badge&logo=x&logoColor=c4b5fd"/>
-  </a>
-  &nbsp;
-  <a href="mailto:hh.mauri2190@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa"/>
-  </a>
-</p>
-
----
+<img src="./header_stack.svg" alt="stack" width="100%">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:2d1b69,100:0d0d0d&height=100&section=footer" />
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,python,java,react,tailwind,nodejs,postgres,supabase,git,linux,vercel,vscode&theme=dark&perline=14" alt="tech stack">
 </p>
+
+```text
+web3/  Stellar SDK · Soroban · Smart Contracts · DeFi · Blend
+```
+
+<img src="./header_projects.svg" alt="projects" width="100%">
+
+```text
+lotty/               🏆 1st place ─ Blockchain Hackathon Buenos Aires 2025 · no-loss lottery DApp on Stellar
+cuyoconnect/         🌐 Co-founder ─ tech builders community platform · OAuth, profiles & events
+campus-downloader/   ⚡ Chrome extension ─ bulk downloads from university Moodle platforms
+```
+
+<img src="./header_contact.svg" alt="contact" width="100%">
+
+<p>
+  <a href="https://linkedin.com/in/mauricio-medina-dev"><img src="https://img.shields.io/badge/LinkedIn-mauricio--medina--dev-0d1117?style=flat-square&logo=linkedin&logoColor=bc8cff"></a>
+  <a href="https://x.com/mauriHm_"><img src="https://img.shields.io/badge/X-@mauriHm__-0d1117?style=flat-square&logo=x&logoColor=bc8cff"></a>
+  <a href="mailto:hh.mauri2190@gmail.com"><img src="https://img.shields.io/badge/Email-hh.mauri2190@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=bc8cff"></a>
+</p>
+
+<img src="./footer_andes.svg" alt="" width="100%">
+
+```text
+mauri@medina:~$ echo "Building from Mendoza, Argentina — at the foot of the Andes 🏔️"
+```
