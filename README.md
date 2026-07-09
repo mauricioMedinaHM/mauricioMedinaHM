@@ -1,16 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d1b69,100:4c1d95&height=240&section=header&text=Mauricio%20Medina&fontSize=52&fontColor=e2d9f3&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web3%20Builder%20%7C%20Community%20Lead&descSize=18&descAlignY=58" />
-</p>
+:-==+*#*+=:                       mauri@medina ─────────────────────────────────────────────────────────────
+          -*#%%%%%%%%%@@%*:                    . OS:............................................... macOS, Linux (Ubuntu)
+       :+%@@@@@@@@@%%%@@@@@#:                  . Uptime:............................... 6+ years shipping production code
+      :%@@@@@%#******##%@@@@@+                 . Host:.................................... Freelance Full-Stack Developer
+      =@@@@*=-:.........:=%@@@.                . Education:............ Lic. Informática y Desarrollo de Software (UDA) 🎓
+      +@@@%=--:..         :*@@                 . Location:................................. Mendoza, Argentina (UTC-3) 🇦🇷
+      .%@@%=---::. ..:--::.:**                 . AI.Stack:........................ Claude + AI Agents (agentic workflows)
+       :@%==+++**+=-+=++=-:-+=.
+        :#*=+*+++++.-----:..--..               . Languages.Programming:.. TypeScript, JavaScript, Rust, Python, Java, SQL
+        +*+--:::-=-. ..... ..:..               . Languages.Web3:............. Soroban, Stellar SDK, Smart Contracts, DeFi
+        -=+=-:.:=++-.:::-:..::.                . Languages.Real:.......................... Español (Native), English (B1)
+        .=+++=--=+**=-::--:.:.
+         .:-*+--**=:...--:::-                  . Hobbies.Software:.......... Mobile Apps, watchOS Apps, DApps, Hackathons
+            =#+--=+-:::...:-.                  . Hobbies.Hardware:.......................... Home Lab, SysAdmin tinkering
+            -%%#+----:...-=-
+         :%@%*##%#*===--=-:+#=                 - Contact ────────────────────────────────────────────────────────────────
+     .:--*@@#*++*#%#*+=-:::-*@%:               . Email:........................................... hh.mauri2190@gmail.com
+.-=*#%%@#+@@@+====+*+=-::::::*@#*#+=:.         . LinkedIn:........................................... mauricio-medina-dev
+#%%%%%%%%=@@@%+-----=--::::.-%@@=@@@%%#*+-:    . Instagram:................................................... @mauri.h.m
+%##%%%@@%#*@@@@*-:::::::...=%@@@*+@@%%%%@@@#   . X:............................................................ @mauriHm_
+%%%#%%%%@@@@@@@@#-.  ... .+@@@@@@#*@@@%%%@@@
+%%@@%%%%%@@@@@@@@@*=:   .#@@@@@@@@@@@@@@%@@@   - Community ──────────────────────────────────────────────────────────────
+@@@%@%%%%%%@@@@@@@@@@#--#@@@@@@@@@@@@@@@@@@@   . Founder:............................ CuyoConnect (Mendoza tech builders)
+@@@@@@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   . Speaker:............ Puna Tech, Universidad del Aconcagua, Vendimia Tech
+                                               . Mentor:...................... Stellar/Soroban Hackathons (Vendimia Tech)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Mendoza%2C%20Argentina-1e1b4b?style=flat-square&logoColor=a78bfa"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/⚡%204%2B%20years%20building-2d1b69?style=flat-square&logoColor=a78bfa"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/⛓️%20Currently%20focused%20on%20Web3-4c1d95?style=flat-square&logoColor=c4b5fd"/>
-</p>
-
-<br/>
+                                               - GitHub Stats ───────────────────────────────────────────────────────────
+                                               . Repos:........................ XX | Stars:........................... XX
+                                               . Commits:................... X,XXX | Followers:....................... XX
 
 ---
 
