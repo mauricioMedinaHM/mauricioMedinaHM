@@ -1,33 +1,33 @@
 ```text
 :-==+*#*+=:                       mauri@medina ─────────────────────────────────────────────────────────────
-          -*#%%%%%%%%%@@%*:                    . OS:............................................... macOS, Linux (Ubuntu)
-       :+%@@@@@@@@@%%%@@@@@#:                  . Uptime:............................... 6+ years shipping production code
-      :%@@@@@%#******##%@@@@@+                 . Host:.................................... Freelance Full-Stack Developer
-      =@@@@*=-:.........:=%@@@.                . Education:............ Lic. Informática y Desarrollo de Software (UDA) 🎓
-      +@@@%=--:..         :*@@                 . Location:................................. Mendoza, Argentina (UTC-3) 🇦🇷
-      .%@@%=---::. ..:--::.:**                 . AI.Stack:........................ Claude + AI Agents (agentic workflows)
+          -*#%%%%%%%%%@@%*:                    . OS:........................................ macOS, Linux (Ubuntu)
+       :+%@@@@@@@@@%%%@@@@@#:                  . Uptime:........................ 4+ years shipping production code
+      :%@@@@@%#******##%@@@@@+                 . Host:............................. Freelance Full-Stack Developer
+      =@@@@*=-:.........:=%@@@.                . Education:....... Lic. Informática y Desarrollo de Software (UDA) 
+      +@@@%=--:..         :*@@                 . Location:.......................... Mendoza, Argentina (UTC-3) 🇦🇷
+      .%@@%=---::. ..:--::.:**                 . AI.Stack:................. Claude + AI Agents (agentic workflows)
        :@%==+++**+=-+=++=-:-+=.
-        :#*=+*+++++.-----:..--..               . Languages.Programming:.. TypeScript, JavaScript, Rust, Python, Java, SQL
-        +*+--:::-=-. ..... ..:..               . Languages.Web3:............. Soroban, Stellar SDK, Smart Contracts, DeFi
-        -=+=-:.:=++-.:::-:..::.                . Languages.Real:.......................... Español (Native), English (B1)
+        :#*=+*+++++.-----:..--..               . Languages.Programming:.. TypeScript, JavaScript, Rust, Python, Java
+        +*+--:::-=-. ..... ..:..               . Languages.Web3:........ Soroban, Stellar SDK, Smart Contracts, DeFi
+        -=+=-:.:=++-.:::-:..::.                . Languages.Real:..................... Español (Native), English (B1)
         .=+++=--=+**=-::--:.:.
-         .:-*+--**=:...--:::-                  . Hobbies.Software:.......... Mobile Apps, watchOS Apps, DApps, Hackathons
-            =#+--=+-:::...:-.                  . Hobbies.Hardware:.......................... Home Lab, SysAdmin tinkering
+         .:-*+--**=:...--:::-                  . Hobbies.Software:..... Mobile Apps, watchOS Apps, DApps, Hackathons
+            =#+--=+-:::...:-.                  . Hobbies.Hardware:..................... Home Lab, SysAdmin tinkering
             -%%#+----:...-=-
-         :%@%*##%#*===--=-:+#=                 - Contact ────────────────────────────────────────────────────────────────
-     .:--*@@#*++*#%#*+=-:::-*@%:               . Email:........................................... hh.mauri2190@gmail.com
-.-=*#%%@#+@@@+====+*+=-::::::*@#*#+=:.         . LinkedIn:........................................... mauricio-medina-dev
-#%%%%%%%%=@@@%+-----=--::::.-%@@=@@@%%#*+-:    . Instagram:................................................... @mauri.h.m
-%##%%%@@%#*@@@@*-:::::::...=%@@@*+@@%%%%@@@#   . X:............................................................ @mauriHm_
+         :%@%*##%#*===--=-:+#=                 - Contact ─────────────────────────────────────────────────────────────
+     .:--*@@#*++*#%#*+=-:::-*@%:               . Email:...................................... hh.mauri2190@gmail.com
+.-=*#%%@#+@@@+====+*+=-::::::*@#*#+=:.         . LinkedIn:...................................... mauricio-medina-dev
+#%%%%%%%%=@@@%+-----=--::::.-%@@=@@@%%#*+-:    . Instagram:.............................................. @mauri.h.m
+%##%%%@@%#*@@@@*-:::::::...=%@@@*+@@%%%%@@@#   . X:....................................................... @mauriHm_
 %%%#%%%%@@@@@@@@#-.  ... .+@@@@@@#*@@@%%%@@@
-%%@@%%%%%@@@@@@@@@*=:   .#@@@@@@@@@@@@@@%@@@   - Community ──────────────────────────────────────────────────────────────
-@@@%@%%%%%%@@@@@@@@@@#--#@@@@@@@@@@@@@@@@@@@   . Founder:............................ CuyoConnect (Mendoza tech builders)
-@@@@@@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   . Speaker:............ Puna Tech, Universidad del Aconcagua, Vendimia Tech
-                                               . Mentor:...................... Stellar/Soroban Hackathons (Vendimia Tech)
+%%@@%%%%%@@@@@@@@@*=:   .#@@@@@@@@@@@@@@%@@@   - Community ────────────────────────────────────────────────────────────
+@@@%@%%%%%%@@@@@@@@@@#--#@@@@@@@@@@@@@@@@@@@   . Founder:........................ CuyoConnect (Mendoza tech builders)
+@@@@@@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   . Speaker:........ Puna Tech, Universidad del Aconcagua, Vendimia Tech
+                                               . Mentor:................... Stellar/Soroban Hackathons (Vendimia Tech)
 
-                                               - GitHub Stats ───────────────────────────────────────────────────────────
-                                               . Repos:........................ XX | Stars:........................... XX
-                                               . Commits:................... X,XXX | Followers:....................... XX
+                                               - GitHub Stats ─────────────────────────────────────────────────────────
+                                               . Repos:..................... XX | Stars:........................... XX
+                                               . Commits:................ X,XXX | Followers:....................... XX
 
 ```
 
